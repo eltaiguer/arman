@@ -1,0 +1,154 @@
+{
+  "audios":[
+    {
+      "text": "No me llamen dinho",
+      "emoji": "⚽",
+      "path": "audios/armandinho.mp3"
+    },
+    {
+      "text": "Bondi para el indio",
+      "emoji": "🚏 🚌",
+      "path": "audios/bondi_indio.mp3"
+    },
+    {
+      "text": "Braulio deidad",
+      "emoji": "🙏",
+      "path": "audios/braulio_deidad.mp3"
+    },
+    {
+      "text": "Chapecoense",
+      "emoji": "✈️ 😠",
+      "path": "audios/chapecoense.mp3"
+    },
+    {
+      "text": "Certificado",
+      "emoji": "📃 💰",
+      "path": "audios/certificado.mp3"
+    },
+    {
+      "text": "Dios bendiga Piaget",
+      "emoji": "🔴 ⚫ 🙏",
+      "path": "audios/dios_bendiga_piaget.mp3"
+    },
+    {
+      "text": "Me olvide que estamos en Uruguay",
+      "emoji": "🇺🇾 🙉",
+      "path": "audios/estamos_en_uruguay.mp3"
+    },
+    {
+      "text": "Halloween",
+      "emoji": "👻 🎃",
+      "path": "audios/halloween.mp3"
+    },
+    {
+      "text": "Halloween ocultismo",
+      "emoji": "👻 🎃 😈",
+      "path": "audios/halloween_ocultismo.mp3"
+    },
+    {
+      "text": "Huevitos full",
+      "emoji":"🖐🥚🥚",
+      "path": "audios/huevitos.mp3"
+    },
+    {
+      "text": "Te agarrás los huevitos",
+      "emoji":"🖐️🥚🥚",
+      "path": "audios/huevitos_short.mp3"
+    },
+    {
+      "text": "No es fácil Braulio",
+      "emoji":"😕",
+      "path": "audios/humildad.mp3"
+    },
+    {
+      "text": "Italiano",
+      "emoji":"🇮🇹",
+      "path": "audios/italiano.mp3"
+    },
+    {
+      "text": "Argentina superior al uruguayismo",
+      "emoji":"🇦🇷 > 🇺🇾",
+      "path": "audios/laargentina_superior_uruguayismo.mp3"
+    },
+    {
+      "text": "Los mayores",
+      "emoji":"👴 👴 👴",
+      "path": "audios/los_mayores.mp3"
+    },
+    {
+      "text": "Asado en mediotanque",
+      "emoji": "🐮 🔥 🍖",
+      "path": "audios/mediotanque.mp3"
+    },
+    {
+      "text": "No todo esta perdido",
+      "emoji":"🌱 🙌",
+      "path": "audios/no_todo_esta_perdido.mp3"
+    },
+    {
+      "text": "No vamo a salir adelante",
+      "emoji":"😠",
+      "path": "audios/no_vamo_a_salir_adelante.mp3"
+    },
+    {
+      "text": "Padrino",
+      "emoji":"👨 👪",
+      "path": "audios/padrino.mp3"
+    },
+    {
+      "text": "Patriarca",
+      "emoji":"👨‍👦",
+      "path": "audios/patriarca.mp3"
+    },
+    {
+      "text": "Piaget boys",
+      "emoji":"🔴 ⚫ 👦 🎶",
+      "path": "audios/piaget_boys.mp3"
+    },
+    {
+      "text": "Puppo privado",
+      "emoji":"📩 👨‍",
+      "path": "audios/puppo_privado.mp3"
+    },
+    {
+      "text": "Salvador porteño",
+      "emoji":"🇸🇻 🇦🇷 🙅",
+      "path": "audios/salvador_porteno.mp3"
+    },
+    {
+      "text": "Satanas puppo",
+      "emoji":"😈 ✝️ 🙅",
+      "path": "audios/satanas_puppo.mp3"
+    },
+    {
+      "text": "Soy un simple mortal",
+      "emoji":"⚰️",
+      "path": "audios/simple_mortal.mp3"
+    },
+    {
+      "text": "Tincho sabio",
+      "emoji":"🙏",
+      "path": "audios/tincho_sabio.mp3"
+    },
+    {
+      "text": "Truco o tesoro",
+      "emoji":"😈 🍬",
+      "path": "audios/truco_tesoro.mp3"
+    },
+    {
+      "text": "Uruguayismo",
+      "emoji":"🇺🇾",
+      "path": "audios/uruguayismo.mp3"
+    },
+    {
+      "text": "Yave contigo y conmigo",
+      "emoji":"🇺🇾",
+      "path": "audios/yave_contigo_conmigo.mp3"
+    },
+    {
+      "text": "Origen de Yave",
+      "emoji":"✝️ 🙏",
+      "path": "audios/yave_origen.mp3"
+    }
+  ]
+}

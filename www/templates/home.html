@@ -1,0 +1,8 @@
+<div ng-controller="HomeCtrl" class="home">
+  <div ng-repeat="audio in audios" class="arman-button" ng-click="playAudio($index)">
+    <div class="overlay">
+      <span class="text">{{audio.text}}</br></br>{{audio.emoji}}</span>
+    </div>
+    <div class="image"></div>    
+  </div>
+</div>
